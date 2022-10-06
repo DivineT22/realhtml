@@ -1,0 +1,21 @@
+header{
+    background-image: url(images/Dear\ Drinking\ Sundown\ Lake.jpg);
+    opacity: 85%;
+    background-size: contain;
+    font-size: 200px;
+    color: blue;
+    text-align: center;
+   
+}
+section{
+    font-size: 45px;
+}
+div{
+    display: inline-flex;
+}
+@media all {
+    
+}
+body{
+    overflow: scroll;
+}

@@ -1,0 +1,98 @@
+.Whole{
+    background-image: url(images/Dark\ Blue\ Spotted\ Background.jpg);
+    background-size: contain;
+    visibility: visible;
+    background-blend-mode: soft-light;
+    opacity: 90%;
+    margin-top: 0%;
+    }
+#Welcome{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    
+    }
+nav{
+    text-align: right;
+    font-size: larger;
+    margin-right: 20px;
+}
+.Logo{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color:red;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: green;
+}
+h2{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-rendering: optimizeLegibility;
+}
+ul{
+    font-size: 30px;
+    color: white;
+    list-style: none;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    font-style: normal;
+    text-align: center;
+    font-family: 'Agate Bold Italic';
+   
+}
+.Camp{
+    border: 2px solid;
+    border-color: white;
+    width: 60%; height: 20%;
+    margin-left: 4px;
+}
+.Pic1{
+    border: 2px solid;
+    border-color: white;
+    width: 60%; height: 20%;
+    margin-left: 4px;
+}
+.Pic2{
+    border: 2px solid;
+    border-color: white;
+    width: 60%; height: 20%;
+    margin-left: 4px;
+    
+}
+.Retain{
+    border: 2px solid;
+    border-color: white;
+    width: 40%; 
+    height: 60%;    
+    margin-left: 4px;
+}
+footer{
+    font-size: larger;
+    color: black;
+    text-align: center;
+}
+@media all {
+    
+}
+body{
+    overflow: scroll;
+    animation-name: inherit;
+}
+ul:hover{
+    color: Black;
+}
