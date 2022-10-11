@@ -1,9 +1,8 @@
 .Whole{
-    background-image: url(images/Dark\ Blue\ Spotted\ Background.jpg);
-    background-size: contain;
+    background-image: url(images/beautiful-purple-universe-background.jpg);
+    background-size: cover;
     visibility: visible;
     background-blend-mode: soft-light;
-    opacity: 90%;
     margin-top: 0%;
     }
 #Welcome{
@@ -55,26 +54,22 @@ ul{
     font-family: 'Agate Bold Italic';
    
 }
-.Camp{
-    border: 2px solid;
-    border-color: white;
-    width: 60%; height: 20%;
-    margin-left: 4px;
-}
 .Pic1{
     border: 2px solid;
     border-color: white;
-    width: 60%; height: 20%;
+    width: 40%; 
+    height: 60%;    
     margin-left: 4px;
 }
 .Pic2{
     border: 2px solid;
     border-color: white;
-    width: 60%; height: 20%;
+    width: 40%; 
+    height: 60%;    
     margin-left: 4px;
     
 }
-.Retain{
+.Pic3{
     border: 2px solid;
     border-color: white;
     width: 40%; 
@@ -95,4 +90,13 @@ body{
 }
 ul:hover{
     color: Black;
+}
+.Flash{
+    width: 70%;
+
+}
+h3{
+    color: white;
+    font-size: 40px;
+    text-align: center;
 }
