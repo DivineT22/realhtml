@@ -81,9 +81,11 @@ footer{
     color: black;
     text-align: center;
 }
-@media all {
-    
+@media all  and (max-width: 600px) {
+
 }
+    
+
 body{
     overflow: scroll;
     animation-name: inherit;

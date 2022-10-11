@@ -1,8 +1,8 @@
 header{
     background-image: url(images/Dear\ Drinking\ Sundown\ Lake.jpg);
     opacity: 85%;
-    background-size: contain;
-    font-size: 200px;
+    background-size: cover;
+    font-size: 90px;
     color: blue;
     text-align: center;
    
@@ -13,7 +13,7 @@ section{
 div{
     display: inline-flex;
 }
-@media all {
+@media all  and (max-width: 600px) {
     
 }
 body{
